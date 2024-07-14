@@ -1,6 +1,8 @@
 ## PDF Text Extractor
 PDF Text Extractor is a simple web application built with React that allows users to upload a PDF file and extract its text content. This can be useful for scenarios where you need to quickly get text out of a PDF document without manual copying.
 
+![PDF text extractor](https://github.com/samicey/pdf-text-extractor/blob/main/page.png)
+
 ## Features
 - Upload a PDF file.
 - Extract text content from the PDF file.
